@@ -1,0 +1,33 @@
+==============================
+PORTFOLIO PROFILE
+==============================
+
+Name:
+Gayatri Anil Prabhu
+
+Professional Summary:
+Computer Engineering graduate with a strong interest in backend development and real-world problem solving.
+I enjoy building practical applications involving databases, APIs, and business logic.
+Currently focused on strengthening my Python, SQL, and backend fundamentals through hands-on projects.
+
+Technical Skills:
+• Python
+• SQL (Basics)
+• SQLite
+• Tkinter
+• HTML & CSS
+• JavaScript (Basics)
+• REST API Fundamentals
+• API Integration
+• Git & GitHub
+• Backend Development Fundamentals
+
+Projects:
+• NH66 Mart Billing System (Python, Tkinter)
+• AgriCare AI – Smart Agriculture Assistant
+• Mira Chatbot (MERN Stack, Custom API)
+• EMOS API – Emotion-based Analysis API (Ongoing)
+• Personal Expense Manager (Python, Tkinter, SQLite)
+• Portfolio Generator Tool (Python, Tkinter)
+
+Generated using Portfolio Generator Tool
